@@ -128,27 +128,3 @@ h2 {
     
 }
 
-@media screen and (max-width: 600px) {
-    .game {
-        width: 350px;
-        height: 350px;
-        justify-content: center;
-        align-items: center;
-
-    }
-    .item {
-        width: 70px;
-        height: 70px;
-
-    }
-    
-    h2 {
-        font-size: 2em;
-    }
-
-    .container{
-        padding: 20px 30px;
-        overflow: hidden;
-        opacity: 0.9;
-    }
-}
